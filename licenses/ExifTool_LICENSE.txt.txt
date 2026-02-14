@@ -1,0 +1,12 @@
+This software uses ExifTool by Phil Harvey.
+
+ExifTool is free software and is licensed under either:
+
+* The Artistic License
+  or
+* The GNU General Public License (GPL)
+
+Copyright (c) Phil Harvey
+
+Official website:
+[https://exiftool.org](https://exiftool.org)
