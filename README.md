@@ -30,7 +30,7 @@ Alle Funktionen laufen **ohne Cloud** direkt auf deinem eigenen PC.
 Die aktuelle Version findest du hier:
 
 **→ GitHub Releases:**
-https://github.com/DEINNAME/FotoTool/releases
+https://github.com/Heinz-Creator/FotoTool/releases
 
 Einfach die **FotoTool.exe** herunterladen und starten.
 
