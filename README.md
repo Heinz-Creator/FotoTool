@@ -66,7 +66,7 @@ Deine Fotos bleiben auf deinem Computer.
 Wenn etwas nicht funktioniert oder du eine Idee hast:
 
 **→ GitHub Issues:**
-https://github.com/DEINNAME/FotoTool/issues
+https://github.com/Heinz-Creator/FotoTool/issues
 
 Beschreibe dort kurz:
 
