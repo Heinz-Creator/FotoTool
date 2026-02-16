@@ -20,10 +20,10 @@ Fotos und Videos werden anhand von:
 
 in eine klare Archivstruktur überführt, zum Beispiel:
 
-Jahr → Monat → Ereignis
-Land → Ort → Jahr → Monat
-WhatsApp → Jahr → Monat
-Screenshots → Jahr → Monat
+Jahr → Monat → Ereignis,
+Land → Ort → Jahr → Monat,
+WhatsApp → Jahr → Monat,
+Screenshots → Jahr → Monat,
 
 So entsteht ein dauerhaft wartbares Fotoarchiv.
 
